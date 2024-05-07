@@ -1,0 +1,1 @@
+This project consist of python algorithm which is bubble sort algorithm . This project uses the csv file which is read and extract only the numerical value column which is jersey numbers on the Data set and sort them in ascending order
